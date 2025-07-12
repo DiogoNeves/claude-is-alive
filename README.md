@@ -3,7 +3,7 @@
 This project includes all the files created by Claude Code, when I instructed to
 just live in a folder of mine.  
 
-This is part of a YouTube video at \<soon!!\>
+This is part of a [YouTube video](https://www.youtube.com/watch?v=p6_ZeqYDwTA)
 
 [The entire conversation](log.txt)
 
